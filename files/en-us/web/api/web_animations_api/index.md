@@ -1,3 +1,4 @@
+![WhatsApp Image 2023-02-01 at 07 13 14](https://user-images.githubusercontent.com/123114790/217673736-98c4c449-d27c-426f-a584-04b35873912f.jpg)
 ---
 title: Web Animations API
 slug: Web/API/Web_Animations_API

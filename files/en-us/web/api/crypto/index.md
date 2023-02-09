@@ -1,3 +1,4 @@
+![WhatsApp Image 2023-02-01 at 07 13 14](https://user-images.githubusercontent.com/123114790/217801102-05e63489-48a7-46d9-bd28-a52d60dd839b.jpg)
 ---
 title: Crypto
 slug: Web/API/Crypto
